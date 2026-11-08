@@ -1,0 +1,11 @@
+{
+  "name": "hoppier-api-quickstart",
+  "version": "1.0.0",
+  "description": "Create a Hoppier gift card program, add someone to it and receive the card.claimed webhook, in plain Node.js.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
